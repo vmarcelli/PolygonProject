@@ -13,6 +13,10 @@ Except for my knowledge on how to program, everything else had to be self taught
 on these subjects were available throughout my education. To remedy this, I have used several 
 avenues to learn how to use the Unity Engine. Examples include: various Wikis, Forums, Videos, Books.
 
+I plan on releasing the code for the game later on as well, once it's presentable and well documented
+If you'd like a copy of it now (as messsy as it is), please message me.
+
+
 == Instructions == 
 Running the game is simple, although I plan to eventually release a Mac version once the game
 is more polished, right now the only way to run the game is through a Windows OS (Preferably Windows 10).
