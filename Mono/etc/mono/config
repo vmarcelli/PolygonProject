@@ -25,3 +25,4 @@
 		<dllentry dll="__Internal" name="ZeroMemory" target="mono_win32_compat_ZeroMemory"/>
 	</dllmap>
 </configuration>
+<></>
